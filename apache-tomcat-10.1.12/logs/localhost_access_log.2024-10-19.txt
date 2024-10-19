@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:00:00:12 +0200] "GET /spring/ HTTP/1.1" 200 502
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:00:00:12 +0200] "GET /spring/styles-5INURTSO.css HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:00:00:12 +0200] "GET /spring/polyfills-FFHMD2TL.js HTTP/1.1" 200 34519
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:00:00:12 +0200] "GET /spring/main-B2AUHQLI.js HTTP/1.1" 200 198194
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:00:00:12 +0200] "GET /spring/favicon.ico HTTP/1.1" 200 15086
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:12:17:57 +0200] "GET /spring/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:12:17:57 +0200] "GET /spring/styles-5INURTSO.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:12:17:57 +0200] "GET /spring/main-B2AUHQLI.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:12:17:57 +0200] "GET /spring/polyfills-FFHMD2TL.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2024:12:17:58 +0200] "GET /spring/favicon.ico HTTP/1.1" 304 -
